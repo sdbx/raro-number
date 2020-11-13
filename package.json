@@ -1,0 +1,14 @@
+{
+  "name": "raro-number",
+  "version": "0.0.1",
+  "description": "return number '53' a.k.a 'raro-number'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raro"
+  ],
+  "author": "wonjin Yi",
+  "license": "MIT"
+}
