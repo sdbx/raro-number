@@ -1,9 +1,10 @@
 # raro-number
 node module :: return 53 a.k.a 'raro-number'
+
 https://www.npmjs.com/package/raro-number
 
 # install
-npm i raro-number
+```npm i raro-number```
 
 # usage
 ```
