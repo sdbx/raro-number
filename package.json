@@ -1,6 +1,6 @@
 {
   "name": "raro-number",
-  "version": "0.0.1",
+  "version": "0.5.3",
   "description": "return number '53' a.k.a 'raro-number'",
   "main": "index.js",
   "scripts": {
